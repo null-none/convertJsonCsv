@@ -1,6 +1,6 @@
 # convertJsonCsv
 
-Javascript module for javascript for convert json to csv and csv to json
+Javascript module for convert formats json to csv and csv to json
 
 ## Install
 
