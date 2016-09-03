@@ -11,7 +11,7 @@ npm install convert-json-csv
 ## Example
 
 ```javascript
-var convert = require('convert'),
+var convert = require('convert-json-csv'),
 csv2json = convert.csv2json,
 json2csv = convert.json2csv;
 

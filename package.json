@@ -1,6 +1,6 @@
 {
   "name": "convert-json-csv",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Convert json2csv and csv2json",
   "main": "convert.js",
   "scripts": {
