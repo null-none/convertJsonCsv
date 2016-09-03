@@ -1,0 +1,23 @@
+{
+  "name": "convert-json-csv",
+  "version": "0.0.1",
+  "description": "Convert json2csv and csv2json",
+  "main": "convert.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "keywords": [
+    "convert",
+    "json",
+    "csv to json",
+    "json to csv",
+    "csv2json",
+    "json2csv"
+  ],
+  "author": "Dmitry Kalinin",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
