@@ -2,6 +2,9 @@
 
 Javascript module for convert formats json to csv and csv to json
 
+[![npm version](https://badge.fury.io/js/convert-json-csv.svg)](https://www.npmjs.com/package/convert-json-csv)
+
+
 ## Install
 
 ```bash
