@@ -11,6 +11,12 @@ Javascript module for convert formats json to csv and csv to json
 npm install convert-json-csv
 ```
 
+## Tests
+
+```bash
+npm run test
+```
+
 ## Example
 
 ```javascript
